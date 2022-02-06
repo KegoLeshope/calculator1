@@ -1,5 +1,8 @@
 package za.ac.cput.calculator1;
 
+/*
+@author Kegomoditswe Leshope
+ */
 
 /*
 Returns result of integer division
